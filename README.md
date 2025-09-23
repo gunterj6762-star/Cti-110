@@ -1,2 +1,2 @@
 # Cti-110
-Cti-110 first assignment
+A list of files related to coding I am doing in CTI-110
